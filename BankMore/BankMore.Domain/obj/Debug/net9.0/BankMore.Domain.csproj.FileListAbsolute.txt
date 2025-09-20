@@ -1,0 +1,17 @@
+C:\Projetos\BankMore\BankMore.Domain\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+C:\Projetos\BankMore\BankMore.Domain\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projetos\BankMore\BankMore.Domain\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projetos\BankMore\BankMore.Domain\bin\Debug\net9.0\BankMore.Domain.deps.json
+C:\Projetos\BankMore\BankMore.Domain\bin\Debug\net9.0\BankMore.Domain.runtimeconfig.json
+C:\Projetos\BankMore\BankMore.Domain\bin\Debug\net9.0\BankMore.Domain.dll
+C:\Projetos\BankMore\BankMore.Domain\bin\Debug\net9.0\BankMore.Domain.pdb
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\BankMore.Domain.csproj.AssemblyReference.cache
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\BankMore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\BankMore.Domain.AssemblyInfoInputs.cache
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\BankMore.Domain.AssemblyInfo.cs
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\BankMore.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\BankMore.Domain.dll
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\refint\BankMore.Domain.dll
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\BankMore.Domain.pdb
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\BankMore.Domain.genruntimeconfig.cache
+C:\Projetos\BankMore\BankMore.Domain\obj\Debug\net9.0\ref\BankMore.Domain.dll

@@ -1,0 +1,129 @@
+[
+  {
+    "ContainingType": "BankMore.Api.Controllers.ContaController",
+    "Method": "Buscar",
+    "RelativePath": "api/Conta/buscar/{cpf}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankMore.Api.Controllers.ContaController",
+    "Method": "Criar",
+    "RelativePath": "api/Conta/criar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "numero",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankMore.Api.Controllers.ContaCorrenteController",
+    "Method": "Criar",
+    "RelativePath": "api/contacorrente/criar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "BankMore.Application.Commands.CriarContaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankMore.Api.Controllers.ContaCorrenteController",
+    "Method": "Inativar",
+    "RelativePath": "api/contacorrente/inativar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankMore.Api.Controllers.ContaCorrenteController",
+    "Method": "Login",
+    "RelativePath": "api/contacorrente/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "BankMore.Application.Commands.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankMore.Api.Controllers.ContaCorrenteController",
+    "Method": "Movimentacao",
+    "RelativePath": "api/contacorrente/movimentacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "BankMore.Application.Commands.MovimentacaoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankMore.Api.Controllers.ContaCorrenteController",
+    "Method": "Saldo",
+    "RelativePath": "api/contacorrente/saldo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankMore.Api.Controllers.ContaCorrenteController",
+    "Method": "Transferencia",
+    "RelativePath": "api/contacorrente/transferencia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "BankMore.Application.Commands.TransferenciaCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

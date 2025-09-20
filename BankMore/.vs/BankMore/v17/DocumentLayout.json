@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\BankMore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C98472CF-2CC7-4B0F-BF2E-5833446351C2}|BankMore.Application\\BankMore.Application.csproj|c:\\projetos\\bankmore\\bankmore.application\\handlers\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98472CF-2CC7-4B0F-BF2E-5833446351C2}|BankMore.Application\\BankMore.Application.csproj|solutionrelative:bankmore.application\\handlers\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Handlers.cs",
+              "DocumentMoniker": "C:\\Projetos\\BankMore\\BankMore.Application\\Handlers\\Handlers.cs",
+              "RelativeDocumentMoniker": "BankMore.Application\\Handlers\\Handlers.cs",
+              "ToolTip": "C:\\Projetos\\BankMore\\BankMore.Application\\Handlers\\Handlers.cs",
+              "RelativeToolTip": "BankMore.Application\\Handlers\\Handlers.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T13:10:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
